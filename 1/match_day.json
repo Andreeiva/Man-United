@@ -3,13 +3,13 @@
 		"categoryId": 1,
 		"categoryTitle": "Live Match",
 		"categoryItemList": [{
-				"fileUrl": "https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8",
+				"fileUrl": "",
 				"id": 1,
 				"imageUrl": "https://www.matchdayaffairs.com/uploads/1/1/6/7/116762109/mufc-mcfc_4.jpg",
 				"movieName": "Burnley vs Crystal Palace"
 			},
 				     {
-				"fileUrl": "http://s4ak2ost.rostelekom.xyz/iptv/8BYEXQ5P4TPETX/6125/index.m3u8",
+				"fileUrl": "",
 				"id": 3,
 				"imageUrl": "https://www.sofascore.com/news/wp-content/uploads/2017/04/cover-39.jpg",
 				"movieName": "Burnley vs Crystal Palace"
