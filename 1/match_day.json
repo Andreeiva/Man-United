@@ -3,16 +3,18 @@
 		"categoryId": 1,
 		"categoryTitle": "Live Match",
 		"categoryItemList": [{
-				"fileUrl": "",
-				"id": 1,
-				"imageUrl": "https://www.matchdayaffairs.com/uploads/1/1/6/7/116762109/mufc-mcfc_4.jpg",
-				"movieName": "Burnley vs Crystal Palace"
+				 "fileUrl": "https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8",
+				"id": 8,
+				"imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+				"movieName": "Burnley vs Manchester United"
 			},
-				     {
-				"fileUrl": "",
-				"id": 3,
-				"imageUrl": "https://www.sofascore.com/news/wp-content/uploads/2017/04/cover-39.jpg",
-				"movieName": "Burnley vs Crystal Palace"
+
+			{
+				"bannerCategoryId": "1",
+				"fileUrl": "https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8",
+				"id": 1,
+				"imageUrl": "https://i.ytimg.com/vi/x1JvYbKTEUQ/maxresdefault.jpg",
+				"movieName": "Burnley vs Manchester United"
 			}
     ]
 	}
